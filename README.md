@@ -53,8 +53,8 @@ project/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/ExWhyZed00/Note-Taking-App.git
-cd Note-Taking-App
+git clone https://github.com/ExWhyZed00/Task-Manager.git
+cd Task-Manager
 ```
 
 ### 2. Install dependencies
